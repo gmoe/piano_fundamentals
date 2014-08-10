@@ -493,15 +493,13 @@ their time is worth $5/hour; then the total yearly savings are:
 
 .. math::
 
-   \frac{5 \text{ hours / week}}{\text{student}} • 
-   \frac{40 \text{ weeks}}{\text{year}} • \frac{$5}{\text{hour}} • 
-   {10,000 \text{ students}} = \frac{$10,000,000}{\text{year}}
+   \frac{5\text{ hours / week}}{\text{student}}\times \frac{40\text{ weeks}}{\text{year}}\times\frac{\$5}{\text{hour}} \times{10,000\text{ students}}=\frac{\$10,000,000}{\text{year}}
 
 in 2002, which will increase every year, or
 
 .. math::
 
-   \frac{$1,000}{\text{year}} \text{ per student}
+   \frac{\$1,000}{\text{year}} \text{ per student}
 
 $10M/yr is only the savings of the students; we have not included the effects
 on teachers and the piano and music industries. Whenever adoption of scientific

@@ -145,7 +145,7 @@ mystery.
 
 Note that the frequency ratios of the 4th and 5th do not add up to that of the
 octave (:math:`1.5000 + 1.3333 = 2.8333` vs. :math:`2.0000`). Instead, they add
-up in logarithmic space because :math:`\frac{3}{2}•\frac{4}{3} = 2`. In
+up in logarithmic space because :math:`\frac{3}{2}\times\frac{4}{3} = 2`. In
 logarithmic space, multiplication becomes addition. Why might this be
 significant? The answer is because the geometry of the cochlea of the ear seems
 to have a logarithmic component.  Detecting acoustic frequencies on a
