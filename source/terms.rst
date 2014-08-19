@@ -7,13 +7,13 @@ Abbreviations
 ^^^^^^^^^^^^^
 
 * AP = Absolute Pitch (:ref:`III.12`)
-* ET = Equal Temperament (Ch. Two, 2c & 6c)
+* ET = Equal Temperament (:ref:`CH2.2.c` & :ref:`CH2.6.c`)
 * FFP = Flat Finger Position (:ref:`III.4.b`)
 * FI = Fantaisie Impromptu by Chopin (:ref:`II.25`, :ref:`III.2`, :ref:`III.5`) 
 * FPD = Fast Play Degradation (:ref:`II.25`, near end)
 * HS = Hands Separate (:ref:`II.7`)
 * HT = Hands Together (:ref:`II.25`)
-* K-II = Kirnberger II Temperament (Ch. Two, 2c & 6b) 
+* K-II = Kirnberger II Temperament (:ref:`CH2.2.c` & :ref:`CH2.6.b`) 
 * LH = Left Hand
 * MP = Mental Play (:ref:`index`)
 * NG = Nucleation Growth (:ref:`III.15`)
@@ -23,7 +23,7 @@ Abbreviations
 * SW = Speed Wall (:ref:`III.7.i`)
 * TO = Thumb Over (:ref:`III.5`)
 * TU = Thumb Under (:ref:`III.5`)
-* WT = Well Temperament (Ch. Two, 2c)
+* WT = Well Temperament (:ref:`CH2.2.c`)
 
 Frequently Used Phrases
 ^^^^^^^^^^^^^^^^^^^^^^^

@@ -18,7 +18,7 @@ many reasons.
      in fingers 1 and 5. For bar 52 (the one with the turn), the fingering is
      2321231, and for bar 53, it is 251515151525. For the arpeggio in the
      second interruption, use the fingering 1231354321. Either thumb under or
-     thumb over (see Section III.5) will work because this passage is not overly
+     thumb over (see :ref:`III.5`) will work because this passage is not overly
      fast, but I prefer thumb over because the thumb under will require some elbow
      motion and this extra movement can lead to flubs.
   B. Practicing short segments allows you to practice it dozens, even hundreds
@@ -26,7 +26,7 @@ many reasons.
      way to teach your hand new motions. If the difficult notes are played as part
      of a longer segment, the longer interval between repeats and the playing of
      other notes in between can confuse the hand and cause it to learn more slowly.
-     This faster learning speed is quantitatively calculated in Section IV.5, and
+     This faster learning speed is quantitatively calculated in :ref:`IV.5`, and
      that calculation provides the basis for the claim in this book that these
      methods can be 1000 times faster than the intuitive methods.
   C. We all know that playing faster than your technique allows is detrimental.

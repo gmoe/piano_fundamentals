@@ -46,7 +46,7 @@ friction/inertia and then making the soft stroke. These 2 components must join
 seamlessly so that to an observer, it looks like a single motion, with the
 flesh of the fingers acting like shock absorbers. The required fast downstroke
 means that the finger muscle must have a high proportion of fast muscles (see
-Section 7.a below). This is achieved by fast motion practice over extended
+:ref:`III.7.a`). This is achieved by fast motion practice over extended
 periods of time (about a year) and avoiding strength exercises; therefore, the
 statement that piano technique requires finger strength is absolutely wrong. We
 need to cultivate finger speed and sensitivity.
@@ -76,29 +76,29 @@ damper, and this control is needed for authoritative play. These components
 determine the nature of each note. You can now see why a fast downstroke and
 equally fast lift is so important, especially during slow play. In normal play,
 the lift of the previous note coincides with the downstroke of the following
-note. In staccato and legato (Section c) and fast play (7.i), we need to modify
-all these components, and they will be discussed separately. If you had never
-practiced these components before, start practice with all 5 fingers, ``C`` to
-``G``, as you do when playing a scale and apply the components to each finger,
-HS. If you want to exercise the extensor muscles, you can exaggerate the quick
-lift stroke. Try to keep all the non-playing fingers on the keys, lightly. As
-you try to speed up the down and lift strokes, playing about one note per
-second, you may start to build stress; in that case, practice until you can
-eliminate the stress. The most important thing to remember about the hold
-component is that you must instantly relax during the hold after the quick
-downstroke. In other words, you need to practice both stroke speed and
-relaxation speed. Then gradually speed up the play; there is no need to play
-fast at this time. Just get up to some comfortable speed. Now do the same with
-any slow music you can play, such as the 1st movement of Beethoven’s
-*Moonlight*, HS. If you had never done this before, HT will be initially very
-awkward because you now need to coordinate so many components in both hands.
-However, with practice, the music will come out better, you will gain much more
-control over the expression, and should get the feeling that you can now play
-more musically. There should be no missed or wrong notes, all the notes should
-be more even, and you can execute all the expression marks with greater
-precision. The performances will be consistent from day to day, and technique
-will progress more rapidly. Without a good basic keystroke, you can get into
-trouble when you play different pianos, or pianos that are not in good
+note. In staccato and legato (:ref:`III.1.c`) and fast play (:ref:`III.7.i`),
+we need to modify all these components, and they will be discussed separately.
+If you had never practiced these components before, start practice with all 5
+fingers, ``C`` to ``G``, as you do when playing a scale and apply the
+components to each finger, HS. If you want to exercise the extensor muscles,
+you can exaggerate the quick lift stroke. Try to keep all the non-playing
+fingers on the keys, lightly. As you try to speed up the down and lift strokes,
+playing about one note per second, you may start to build stress; in that case,
+practice until you can eliminate the stress. The most important thing to
+remember about the hold component is that you must instantly relax during the
+hold after the quick downstroke. In other words, you need to practice both
+stroke speed and relaxation speed. Then gradually speed up the play; there is
+no need to play fast at this time. Just get up to some comfortable speed. Now
+do the same with any slow music you can play, such as the 1st movement of
+Beethoven’s *Moonlight*, HS. If you had never done this before, HT will be
+initially very awkward because you now need to coordinate so many components in
+both hands.  However, with practice, the music will come out better, you will
+gain much more control over the expression, and should get the feeling that you
+can now play more musically. There should be no missed or wrong notes, all the
+notes should be more even, and you can execute all the expression marks with
+greater precision. The performances will be consistent from day to day, and
+technique will progress more rapidly. Without a good basic keystroke, you can
+get into trouble when you play different pianos, or pianos that are not in good
 regulation, and the music can often come out worse as you practice more because
 you can acquire bad habits such as inaccurate timing. Of course, the whole
 process described in this one paragraph may take weeks or even months to
@@ -196,11 +196,11 @@ let-off is the smallest controllable distance that can maintain the
 acceleration without any chance of locking the hammer onto the strings because
 the jack could not release. This flex explains four otherwise mysterious facts:
 
-  #. the tremendous energy that such a light hammer can transfer to the strings
-  #. the decrease in tone quality (or control) when the let-off is too large
-  #. the critical dependence of the sound output and tone control on hammer 
+  #. The tremendous energy that such a light hammer can transfer to the strings
+  #. The decrease in tone quality (or control) when the let-off is too large
+  #. The critical dependence of the sound output and tone control on hammer 
      weight and size
-  #. the clicking sound that the piano makes when the hammer shank bushing 
+  #. The clicking sound that the piano makes when the hammer shank bushing 
      deteriorates (a classic example is the clicking Teflon bushing)
 
 The clicking is the sound of the bushing snapping back when the jack releases

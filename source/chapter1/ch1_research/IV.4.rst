@@ -6,14 +6,14 @@
 There is an intimate, if not absolutely essential, relationship between
 mathematics and music. At the very least, they share a large number of the most
 fundamental properties in common, starting with the fact that the chromatic
-scale is a simple logarithmic equation (see Chapt. Two, Section 2) and that the
-basic chords are ratios of the smallest integers. Now few musicians are
-interested in mathematics for mathematics' sake. However, practically everyone
-is curious and has wondered at one time or other whether mathematics is somehow
-involved in the creation of music. Is there some deep, underlying principle
-that governs both math and music? In addition, there is the established fact
-that every time we succeeded in applying mathematics to a field, we have made
-tremendous strides in advancing that field. One way to start investigating this
+scale is a simple logarithmic equation (see :ref:`CH2.2`) and that the basic
+chords are ratios of the smallest integers. Now few musicians are interested in
+mathematics for mathematics' sake. However, practically everyone is curious and
+has wondered at one time or other whether mathematics is somehow involved in
+the creation of music. Is there some deep, underlying principle that governs
+both math and music? In addition, there is the established fact that every time
+we succeeded in applying mathematics to a field, we have made tremendous
+strides in advancing that field. One way to start investigating this
 relationship is to study the works of the greatest composers from a
 mathematical point of view. Here are a few examples:
 
@@ -50,11 +50,11 @@ harmonic changes, clever positioning of ornaments, etc. These repetitions would
 be assembled to form a section and the whole section would be repeated. The
 first repetition provides a factor of two, the various modifications provide
 another factor of two to six (or more), and the final repetition of the entire
-section provides another factor of two, or 2x2x2 = 8 at a minimum. In this way,
-he was able to write huge compositions with a minimum of thematic material. In
-addition, his modifications of the original theme followed a particular order
-so that certain moods or colors of music were arranged in the same order in
-each composition.
+section provides another factor of two, or :math:`2\times2\times2 = 8` at a
+minimum. In this way, he was able to write huge compositions with a minimum of
+thematic material. In addition, his modifications of the original theme
+followed a particular order so that certain moods or colors of music were
+arranged in the same order in each composition.
 
 Because of this pre-ordained structure, he was able to write down his
 compositions from anywhere in the middle, or one voice at a time, since he knew

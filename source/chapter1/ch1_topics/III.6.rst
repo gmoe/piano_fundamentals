@@ -430,11 +430,11 @@ j. Establishing Permanent Memory, Mental Play
 
 There are at least five basic methods of memorizing, they are: 
 
-  (1) Hand Memory (audio/tactile)
-  (2) Music Memory (aural)
-  (3) Photographic Memory (visual)
-  (4) Keyboard Memory / Mental Play (visual/tactile, brain)
-  (5) Theoretical Memory (brain)
+  #. Hand Memory (audio/tactile)
+  #. Music Memory (aural)
+  #. Photographic Memory (visual)
+  #. Keyboard Memory / Mental Play (visual/tactile, brain)
+  #. Theoretical Memory (brain)
 
 Practically everybody uses a combination of them. Most people rely mainly on
 one and use the others as supplementary help.

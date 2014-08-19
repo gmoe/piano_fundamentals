@@ -1,6 +1,6 @@
 .. _CH2.7:
 
-7. Making Minor Reparis (Voicing and Polishing Capstans)
+7. Making Minor Repairs (Voicing and Polishing Capstans)
 --------------------------------------------------------
 
 Once you start tuning, you cannot help but get involved in small repairs and

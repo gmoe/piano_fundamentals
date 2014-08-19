@@ -770,9 +770,6 @@ however, the important thing to keep in mind is that the thumb motion must be
 on the TO side of dead center. If you are even slightly on the TU side, you hit
 a speed wall.
 
-.. note::
-   I need to implement MathJax in order to clean up this math...
-
 The analogy of thrust and pull to TU and TO go even further, because thrust and
 pull also have a neutral motion, just as TU and TO have a range of motions in
 between. You get the neutral motion by reducing the minor axis of the ellipse
@@ -782,20 +779,22 @@ you approach the neutral position from the thrust side or the pull side,
 because the seemingly similar neutral motions (approached from thrust or pull
 side) are actually being played using a different set of muscles. Let me
 illustrate this with a mathematical example. Mathematicians will be horrified
-if you tell them that 0 = 0, which at first glance seems to be trivially
-correct. Reality, however, dictates that we must be very careful. This is
-because we must know the true meaning of zero; i.e., we need a mathematical
-definition of zero. It is defined as the number 1/N, when N is allowed to go to
-infinity. You get to the "same" number zero, whether N is positive or negative!
-Unfortunately, if you try to divide by zero: 1/0, you get a different answer
-depending on whether N is positive or negative. 1/0 = ∞ when N is positive, and
-1/0 = -∞ when N is negative! If you had assumed the two zeros to be the same,
-your error after the division could have been as large as two infinities
-depending on which zero you used! In a similar way, the "same" neutral
-positions achieved by starting with TU or TO are fundamentally different, and
-similarly with thrust and pull. That is, under certain circumstances, a neutral
-position approached from either thrust or pull is better. The difference in
-feel is unmistakable when you play them. This is why you need to learn both.
+if you tell them that :math:`0 = 0`, which at first glance seems to be
+trivially correct. Reality, however, dictates that we must be very careful.
+This is because we must know the true meaning of zero; i.e., we need a
+mathematical definition of zero. It is defined as the number
+:math:`\frac{1}{N}`, when :math:`N` is allowed to go to infinity. You get to
+the "same" number zero, whether :math:`N` is positive or negative!
+Unfortunately, if you try to divide by zero: :math:`1/0`, you get a different
+answer depending on whether :math:`N` is positive or negative. :math:`1/0 =
+\infty` when :math:`N` is positive, and :math:`1/0 = -\infty` when :math:`N` is
+negative! If you had assumed the two zeros to be the same, your error after the
+division could have been as large as two infinities depending on which zero you
+used! In a similar way, the "same" neutral positions achieved by starting with
+TU or TO are fundamentally different, and similarly with thrust and pull. That
+is, under certain circumstances, a neutral position approached from either
+thrust or pull is better. The difference in feel is unmistakable when you play
+them. This is why you need to learn both.
 
 This point is so universally important, especially for speed, that I will
 illustrate it with another example. The Samurai's life depends on the speed of
@@ -878,7 +877,7 @@ be able to hold the 5th finger down for the duration of the 2 bars. If you have
 difficulty interpreting the rhythm of this section, listen to several
 recordings to get some ideas. Then comes the LH Alberti accompaniment starting
 at bar 21, and similar RH parts that appear later. The Alberti accompaniment
-can be practiced using parallel sets, as explained starting at section II.8.
+can be practiced using parallel sets, as explained starting at :ref:`II.8`.
 The next difficult segment is the RH trill of bar 30. This first trill is best
 performed using 3,5 fingering and the second one requires 4,5. For those with
 small hands, these trills are as difficult as the ending arps, so they should
