@@ -33,7 +33,7 @@ memorization, absolute pitch, performance, composition, music theory,
 interpretation, controlling nervousness, etc. It is so all-encompassing that it
 is not possible to devote one section to explaining it; rather, it is discussed
 in practically every section of this book. A fairly extended discussion is given
-in Section III.6.j.
+in :ref:`III.6.j`.
 
 MP is what made Mozart (and all great musicians) what he was; he is considered
 to be one of the greatest geniuses partly because of his MP abilities. The
