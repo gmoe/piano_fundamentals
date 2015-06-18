@@ -28,7 +28,7 @@ necessary ones are working full tilt, which is a coordination skill that
 requires a lot of practice.
 
 For those who are new to relaxation, you can start with easier pieces you have
-learned, and practice adding relaxation. The parallel set exercises of III.7
+learned, and practice adding relaxation. The parallel set exercises of :ref:`III.7`
 can help you to practice relaxation. One way to feel relaxation is to practice
 one parallel set and accelerate it until stress builds up and then try to
 relax. You will need to find motions and positions of arms, wrists, etc., that
@@ -62,7 +62,7 @@ Relaxation is energy conservation. There are at least 2 ways to conserve:
 Let's demonstrate these with the one-finger gravity drop. The first is the easiest;
 simply allow gravity to completely control the drop, while the entire body is
 resting comfortably on the bench. A tense person will contract both opposing
-muscles: those for raising and for lowering the hand. For *#2* you will need to
+muscles: those for raising and for lowering the hand. For the second, you will need to
 learn a new habit if you don't already have it (few do, initially). That is the
 habit of relaxing all muscles as soon as you reach the bottom of the key drop.
 During a gravity drop, you let gravity pull the arm down, but at the end of the
