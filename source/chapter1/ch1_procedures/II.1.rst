@@ -5,21 +5,21 @@
 
 Many students use the following practice routine:
 
-  #. First, practice scales or technical exercises until the fingers are limbered
+  A. First, practice scales or technical exercises until the fingers are limbered
      up. Continue this for 30 minutes or longer if you have time, to improve
      technique especially by using exercises such as the Hanon series.
-  #. Then take a new piece of music and slowly read it for a page or two,
+  B. Then take a new piece of music and slowly read it for a page or two,
      carefully playing both hands together, starting from the beginning. This slow
      play is repeated until it can be performed reasonably well and then it is
      gradually speeded up until the final speed is attained. A metronome might be
      used for this gradual speed-up.
-  #. At the end of a two hour practice, the fingers are flying, so the students
+  C. At the end of a two hour practice, the fingers are flying, so the students
      can play as fast as they want and enjoy the experience before quitting. After
      all, they are tired of practicing so that they can relax, play their hearts out
      at full speed; this is the time to enjoy the music!
-  #. Once the piece can be played satisfactorily, memorize it and practice “until
+  D. Once the piece can be played satisfactorily, memorize it and practice “until
      the music is in the hands”.
-  #. On the day of the recital or lesson, practice the piece at correct speed (or
+  E. On the day of the recital or lesson, practice the piece at correct speed (or
      faster!) as many times as possible in order to make sure that it is in top
      condition. This is the last chance; obviously, the more practice, the better.
 
