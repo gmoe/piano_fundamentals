@@ -3,7 +3,7 @@
 11. Parallel Sets
 -----------------
 
-Now that the LH CEG chord is satisfactory, try to switch suddenly from the
+Now that the LH ``C E G`` chord is satisfactory, try to switch suddenly from the
 chord to the quadruplet. You will now have to move the fingers but keep the
 finger motions to a minimum. To successfully switch, incorporate the proper
 hand/arm motions (see Fink, Sandor) discussed later but, that's advanced stuff,
