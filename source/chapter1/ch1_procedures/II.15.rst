@@ -41,7 +41,7 @@ shortest times may be associated with conditioning, such as the use of motions
 or muscles you had not used before, or memory issues. Intermediate times of
 several weeks may be associated with new nerve connections, such as HT play.
 Longer times may be associated with actual growth of brain/nerve/muscle cells,
-and conversion of slow to fast muscle cell types (see III.7.a).
+and conversion of slow to fast muscle cell types (see :ref:`III.7.a`).
 
 You must do everything right to maximize PPI. Many students do not know the
 rules and can negate the PPI with the result that, when they play the next day,
