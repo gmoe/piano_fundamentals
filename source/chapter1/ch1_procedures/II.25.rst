@@ -418,7 +418,7 @@ Most students who have difficulty do so because they can't get started and the
 initial hurdle produces a mental block that makes them doubt their ability to
 play this piece. There is no better demonstration of the efficacy of the
 methods of this book than demonstrating how to learn this composition. However,
-because this piece is reasonably difficult, you should read :ref:`III` before
+because this piece is reasonably difficult, you should read section III before
 learning it.
 
 You will need about 2 yrs of piano lessons before you can start learning this
