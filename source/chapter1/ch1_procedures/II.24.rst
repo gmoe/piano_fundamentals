@@ -18,7 +18,7 @@ loud sounds with the soft pedal depressed.
 Many pianists do not understand the importance of proper hammer voicing for the
 soft pedal to be effective. If you tend to need the soft pedal to play softly,
 or if it is distinctly easier to play pianissimo with the grand lid closed, the
-hammer almost certainly needs voicing. See "Voicing" in Chapter Two, Section 7.
+hammer almost certainly needs voicing. See "Voicing" in :ref:`CH2.7`.
 With properly voiced hammers, you should be able to control soft playing to any
 desired degree without the soft pedal. With worn, compacted, hammers, playing
 softly is impossible and the soft pedal has less effect in changing the tone.
@@ -28,7 +28,7 @@ let-off properly minimized, in order to enable PPP.
 
 The use of the soft pedal is controversial because too many pianists are
 unfamiliar with how it works. For example, many use it to play pianissimo,
-which is incorrect usage. As shown in Ch. Two, Section 7, energy transfer from
+which is incorrect usage. As shown in :ref:`CH2.7`, energy transfer from
 the hammer to the string is most efficient at impact, before the string starts
 to move. A compacted hammer transfers its energy during an extremely short time
 interval at impact and the hammer immediately bounces off the strings. This
@@ -38,7 +38,7 @@ same piano (with nothing else changed), would make the action feel heavier.
 This is because, with the softer impact point of the hammer, it stays on the
 string much longer, and the string is pushed out of its original position
 before all the hammer energy is transferred to the string. In this position,
-the energy transfer is less efficient (see Ch. Two, Section 7) and the pianist
+the energy transfer is less efficient (see :ref:`CH2.7`) and the pianist
 must push harder to produce the same volume of sound. Thus voicing can be more
 effective in changing the apparent key weight than lead weights. Clearly, the
 effective key weight is only partly controlled by the force required to depress
@@ -81,11 +81,11 @@ Why does timbre change when two strings are struck instead of three? Here,
 timbre is controlled by at least four factors:
 
   #. Existence of the unstruck string 
-  #. The prompt-/after- sound ratio
+  #. The prompt-/after-sound ratio
   #. The harmonic content
   #. Vibrational polarization of the strings 
 
-Let’s examine these in more detail.  The unstruck string acts as a reservoir
+Let’s examine these in more detail. The unstruck string acts as a reservoir
 into which the other two strings can dump their energy and produces many new
 effects. Since the vibration of the 3rd string is in anti-phase with the struck
 strings (a driven string is always in anti-phase with the driver), it takes the
@@ -139,8 +139,8 @@ fundamentals. The polarizations of the strings also change with the soft pedal
 because the third string will be polarized more horizontally, which contributes
 to the gentler sound.
 
-This type of understanding helps us to use the soft pedal correctly. If the
-pedal is depressed before a note is played, the initial time dependent
+This type of understanding helps us to use the damper pedal correctly. If the
+damper pedal is depressed before a note is played, the initial time dependent
 traveling waves will excite all strings, creating a soft background roar. That
 is, in the prompt sound, the non-harmonic Fourier coefficients are not zero. If
 you place your finger on any string, you can feel it vibrate. However, octave
@@ -179,7 +179,7 @@ about how it works. The only way to use a partial soft pedal with reproducible
 results is a very slight soft pedal, in which case all the strings will hit the
 sides of the grooves in the hammer. Even this scheme will not really work,
 because it will affect only the 3-string section, resulting in a jarring
-transition from 2- string to 3-string sections.
+transition from 2-string to 3-string sections.
 
 In the double and single string sections, the strings have much larger
 diameters, so when the action moves sideways, the strings hit the side walls of
