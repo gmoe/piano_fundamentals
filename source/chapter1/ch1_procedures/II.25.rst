@@ -168,7 +168,7 @@ Continue memorizing in segments until the end.
 The LH octaves must be held. For example, play the LH ``C#`` octave of bar 1
 using fingers 51, but immediately slip the 4, then 3 finger onto the lower
 ``C#``, replacing the 5, holding this lower ``C#`` down. You will end up
-holding the octave 31 before you reach bar 2. Now hold the 3 as you play the B
+holding the octave 31 before you reach bar 2. Now hold the 3 as you play the ``B``
 octave of bar 2 with 51. In this way, you maintain complete legato in the LH
 going down. Using this procedure, you cannot maintain complete legato with the
 1 finger, but hold that as long as you can. In the transition from bar 3 to 4,
@@ -314,21 +314,25 @@ using 3 speeds to compose one of his famous melodies. In fact, the entire
 sonata consists of these repeated sections that are 8 to 10 bars long. There
 are several sections that are 16 or 32 bars long, but these are multiples of
 the basic 8 bar sections. More examples of this type of micro-structural
-analysis are discussed in section IV.4 for Mozart and Beethoven. This type of
+analysis are discussed in :ref:`IV.4` for Mozart and Beethoven. This type of
 analysis can be helpful for memorization and mental play – after all, mental
 play is how he composed them!
 
-The technically challenging parts are (1) the fast RH trill of bar 25, (2) the
-fast RH runs from bar 36-60 - make sure you have good fingering, (3) the fast
-broken RH octaves of bars 97-104, and (4) the fast LH Alberti accompaniment of
-bars 119-125. Examine these elements to see which is the hardest for you, and
+The technically challenging parts are 
+
+#. the fast RH trill of bar 25, 
+#. the fast RH runs from bar 36-60 - make sure you have good fingering, 
+#. the fast broken RH octaves of bars 97-104 
+#. the fast LH Alberti accompaniment of bars 119-125. 
+
+Examine these elements to see which is the hardest for you, and
 start by practicing that element first. The broken octave sequence of bars
 97-104 is not just a series of broken octaves, but two melodies, an octave and
 a half-step apart, chasing each other. Practice everything HS, without pedal,
 until they are comfortable before starting HT. Parallel set exercises are the
 key to developing the technique to play these elements and parallel set
-exercise #1 (quad repetitions, III.7b) is the most important, especially for
-learning relaxation. For fast trills, go to III.3.a. The broken chords in the
+exercise #1 (quad repetitions, :ref:`III.7.b`) is the most important, especially for
+learning relaxation. For fast trills, go to :ref:`III.3.a`. The broken chords in the
 LH (bar 28, etc., and in the Coda) should be played very fast, almost like a
 single note, and match the RH notes. The HT practice should initially be
 without pedal until you are comfortable HT.
@@ -419,19 +423,19 @@ learning it.
 
 You will need about 2 yrs of piano lessons before you can start learning this
 piece. For easier pieces, try the above *Moonlight* and *Rondo*, or section
-III.6.l, Bach's *Inventions*. Make sure you figure out the key before you start.
+:ref:`III.6.l`, Bach's *Inventions*. Make sure you figure out the key before you start.
 
 .. hint:: 
-   After the G# “announcement”, it starts with ``C#`` in bar 3 and the
+   After the ``G#`` “announcement”, it starts with ``C#`` in bar 3 and the
    composition ends with ``C#``, and the Largo starts with ``Db`` 
    (same note as ``C#``!); but is each in a major or minor key? 
 
 The large number of sharps and flats, as in this composition, often worries
 beginners; however, the black keys are easier to play than the white keys once
-you know the flat finger positions (see III.4.b) and the Thumb Over method (see
-III.5). Chopin may have chosen these “far out” keys for this reason, because
+you know the flat finger positions (see :ref:`III.4.b`) and the Thumb Over method (see
+:ref:`III.5`). Chopin may have chosen these “far out” keys for this reason, because
 the scale does not matter in the Equal Temperament that he probably used (see
-Ch. Two, 2.c,).
+:ref:`CH2.2.c`).
 
 We start by reviewing the preliminary work with HS practice and mental play.
 Therefore you should practice HT with the objective of attaining very accurate
@@ -440,7 +444,7 @@ difficult, we will break the rule about starting at the end and start at the
 beginning because this piece is difficult to start correctly but, once started,
 it takes care of itself. You need a strong, confident beginning. So we will
 start with the first two pages, up to the slow cantabile part. The LH stretch
-and continuous workout makes endurance (ie, relaxation) a major issue. Those
+and continuous workout makes endurance (i.e., relaxation) a major issue. Those
 without sufficient experience and especially those with smaller hands, may need
 to work on the LH for weeks before it becomes satisfactory. Fortunately, the LH
 is not that fast, so speed is not a limiting factor and most students should be
@@ -450,7 +454,7 @@ completely relaxed, without fatigue.
 For bar 5 where the RH first comes in, the suggested LH fingering is
 ``532124542123``. You might start by practicing bar 5, LH, by cycling it
 continually until you can play it well. You should stretch the palm, not the
-fingers, which can lead to stress and injury. See section III.7e for palm
+fingers, which can lead to stress and injury. See section :ref:`III.7.e` for palm
 stretching exercises.
 
 Practice without the pedal. Practice in small segments. Suggested segments are:
@@ -498,7 +502,7 @@ second half. The easiest way to learn the 3,4 timing is to do it at speed from
 the beginning. Don't try to slow down and figure out where each note should go,
 because too much of that will introduce an unevenness in your playing that may
 become impossible to correct later on. Here we use the "cycling" method -- see
-"Cycling" in section III.2. First, cycle the six notes of the LH continually,
+"Cycling" in section :ref:`III.2`. First, cycle the six notes of the LH continually,
 without stopping. Then switch hands and do the same for the eight notes of the
 RH, at the same (final) tempo as you did for the LH. Next cycle only the LH
 several times, and then let the RH join in. Initially, you only need to match
@@ -550,7 +554,7 @@ to learn the first section, you are almost home free. However, this time, it is
 faster than the first time (Allegro) – Chopin apparently wants you to play this
 at two different speeds, possibly because he saw that they can sound quite
 different when you change the speed; why should it sound different, and in what
-way? -- the physics and psychology of this speed change is discussed in III.2.
+way? -- the physics and psychology of this speed change is discussed in :ref:`III.2`.
 Note that in the final 20 bars or so, the RH pinky and thumb carry notes of
 major thematic value, all the way to the end. This section may require a lot of
 HS practice with the RH.
