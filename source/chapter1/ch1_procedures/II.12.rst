@@ -33,7 +33,7 @@ Two important items to memorize are the time signature (see :ref:`III.1.b`) and
 key signature (see :ref:`III.5.d`). The time signature is easy to understand
 and will help you to play with the correct rhythm. The key signature (how many
 sharps or flats) is more complex because it does not tell you the precise key
-(scale) that it is in (``C-major``, etc.). If you know that the composition is
+(scale) that it is in (``C major``, etc.). If you know that the composition is
 in a major or minor scale, the key signature tells you the key; for example if
 the key signature has no sharps or flats (as in *Für Elise*), it is in either
 ``C major`` or ``A minor`` (see :ref:`III.5.d`). Most students know the major
