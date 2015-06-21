@@ -104,7 +104,7 @@ you can acquire bad habits such as inaccurate timing. Of course, the whole
 process described in this one paragraph may take weeks or even months to
 complete.
 
-**Tone**: Single versus Multiple Notes, Pianissimo, Fortissimo. Tone is the quality
+**Tone: Single versus Multiple Notes, Pianissimo, Fortissimo.** Tone is the quality
 of the sound; whether the sum total of all the properties of the sound is
 appropriate for the music. There is controversy over whether a pianist can
 control the "tone" of a single note on the piano. If you were to sit at the
@@ -507,7 +507,7 @@ Staccato is generally divided into three types depending on how it is played:
 
 **#1** is played mostly with the finger, holding the hand and arm still, **#2**
 is played mostly with wrist action, and **#3** is usually played as a thrust
-(III.4a), with the playing action originating at the upper arm. As you progress
+(:ref:`III.4.a`), with the playing action originating at the upper arm. As you progress
 from **#1** to **#3** you add more mass behind the fingers; therefore, **#1**
 gives the lightest, fastest staccato and is useful for single, soft notes, and
 **#3** gives the heaviest feeling and is useful for loud passages and chords
