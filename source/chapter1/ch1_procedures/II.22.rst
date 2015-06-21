@@ -61,7 +61,7 @@ unregulated piano; this is the main reason why you want a decent grand instead
 of a poor quality upright and why tuning, regulation, and hammer voicing are
 more important than most students realize. Listening to good recordings is the
 best way to wake up the student to the existence of good tone. If they only
-listen to their play, they may have no idea what good tone means. On the other
+listen to their playing, they may have no idea what good tone means. On the other
 hand, once you pay attention to tone and start getting results, it will feed on
 itself and you can readily learn the art of producing sounds that can attract
 an audience. More importantly, without good tone, advanced technical
