@@ -57,7 +57,7 @@ compositions and many editors have added pedal markings in his music. The pedal
 was basically fully developed by Beethoven’s time, although it was not yet
 totally accepted as a serious musical tool. Beethoven used it with great
 success as a special effect (third movement of Waldstein Sonata); therefore, he
-tended to use it a lot (entire first movement of his Moonlight Sonata) or non
+tended to use it a lot (entire first movement of his Moonlight Sonata) or not
 at all (entire Pathetique Sonata, first and second movements of the Waldstein).
 Chopin used the pedal extensively to inject an additional level of logic into
 his music and fully exploited all the different ways of pedaling. Therefore,
