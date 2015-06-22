@@ -31,7 +31,7 @@ is attained. Change hands frequently to avoid injury.
 If a technique requires 10,000 repetitions (a typical requirement for really
 difficult material), cycling allows you to get them done in the shortest
 possible time. Representative cycle times are about 1 sec, so 10,000 cycles is
-less than 4 hours. If you cycle this segment for 10 min. per day, 5 days a week,
+less than 4 hours. If you cycle this segment for 10 minutes per day, 5 days a week,
 10,000 cycles will take almost a month. Clearly, very difficult material will
 take months to learn using the best methods, and much longer if you use less
 efficient methods.
@@ -79,7 +79,7 @@ to 3 times your maximum speed!
 But wait, not all of the 12 notes are present; there are actually only 7, so 5
 notes are missing. These missing notes create what is called a Moiré pattern,
 which is a third pattern that emerges when two incommensurate patterns are
-superposed. This pattern creates a wavelike effect within each measure and
+superposed. This pattern creates a wave-like effect within each measure and
 Chopin reinforced this effect by using a LH arpeggio that rises and falls like a
 wave in synchrony with the Moiré pattern. The acceleration of a factor of 3 and
 the Moiré pattern are mysterious effects that sneak up on the audience because
@@ -104,7 +104,7 @@ device -- see Bach's Inventions. Another device is to start the phrase at the
 end of a partial measure so that the first downbeat of the first full measure
 comes after a few notes have been played (a classic example of this is the
 beginning of the first movement of Beethoven's *Appassionata*). This means that
-the first note of the RH in this measure of Chopin's FI must be soft and the
+the first note of the RH in this measure of Chopin's *FI* must be soft and the
 second note louder than the first, in order to strictly preserve the rhythm
 (another example of the importance of rhythm!). We are not used to playing this
 way; the normal play is to start the first note as a downbeat. It is especially
@@ -120,7 +120,7 @@ the flowing melody of the RH is replaced by two broken chords, thus giving the
 impression of quadrupling the rhythm. This "rhythmic acceleration" culminates in
 the climactic forte of bars 19-20. The audience is then treated to a breather by
 a "softening" of the rhythm created by the delayed RH melodic (pinky) note and
-then its gradual fading, accomplished by the diminuendo down to PP. The whole
+then its gradual fading, accomplished by the diminuendo down to :math:`pp`. The whole
 cycle is then repeated, this time with added elements that heighten the climax
 until it ends in the descending crashing broken chords. For practicing this
 part, each broken chord might be individually cycled. These chords lack the 3,4
@@ -164,7 +164,7 @@ restatement of the slow movement theme in the LH. Distinguish the top note of
 this LH melody (``G#`` - bar 7 from the end) clearly from the same note played by
 the RH by holding it slightly longer and then sustain it with the pedal.
 
-The ``G#`` is the most important note in this piece. Thus the beginning sf
+The ``G#`` is the most important note in this piece. Thus the beginning :math:`sf`
 ``G#`` octave is not only a fanfare introducing the piece, but a clever way for
 Chopin to implant the ``G#`` into the listeners' minds. Therefore, don't rush
 this note; take your time and let it sink in. If you look throughout this piece,
