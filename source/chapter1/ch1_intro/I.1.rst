@@ -44,7 +44,7 @@ where MP has been given an official name (definition) although, if you are a
 Play should be taught from the first year of piano lessons and is especially
 effective for the youngest youngsters; the most obvious way to start teaching it
 is to teach memorization skills and absolute pitch. MP is the art of controlling
-the minds of the audience thru the music you play and therefore it works best
+the minds of the audience through the music you play and therefore it works best
 when it originates in your mind. The audience views your MP ability as something
 extraordinary, belonging only to a select few gifted musicians with intelligence
 far above the average person. Mozart was almost certainly aware of this and used
