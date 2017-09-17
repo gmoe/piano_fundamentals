@@ -85,7 +85,7 @@ memory for beginners because it is more efficient; for advanced players,
 keyboard memory and photographic memory are the same, since if you can do one,
 the other follows naturally. Whenever you memorize a small section, close your
 eyes and see if you can play it in your mind without playing it on the piano.
-Once you have memorized an entire piece HS), you should also be able to play
+Once you have memorized an entire piece HS, you should also be able to play
 the complete piece HS in your head. This is the time to analyze the structure
 of the music, how it is organized and how the themes develop as the music
 progresses. With practice, you will find that it requires only a small
