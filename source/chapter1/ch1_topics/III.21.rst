@@ -85,7 +85,7 @@ preconceived notions that memorizing significant repertoires is only for the
 “gifted” few. The main reason for this unfounded fear is the past experience in
 which students are first taught to play a piece well, then taught to memorize
 which, as explained in :ref:`III.6`, is one of the most difficult ways to
-memorize. For students who were tavught correctly from the beginning,
+memorize. For students who were taught correctly from the beginning,
 memorizing is like second nature; it is an integral part of learning any new
 composition.  Adopting this approach will automatically make you a good
 memorizer, although for older folks, this may take many years.
