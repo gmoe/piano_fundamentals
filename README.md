@@ -1,6 +1,6 @@
 # Fundamentals of Piano Practice
 
-This is [Sphinx](http://sphinx-doc.org/) adaptation of Chaun C. Chang’s
+This is [Sphinx](http://sphinx-doc.org/) adaptation of Chuan C. Chang’s
 excellent book, [Fundamentals of Piano Practice](http://pianopractice.org/).
 Why bother? Well there are a quite few formatting improvements from the
 original PDF, including inter-document links, clean bulleted lists, and
