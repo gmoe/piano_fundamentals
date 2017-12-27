@@ -90,5 +90,5 @@ effort is needed to learn this "trick". To teach a stutterer to play through
 mistakes is a very difficult task.
 
 The number of possible bad habits is so large that they cannot all be discussed
-here. Suffice it so say that a rigorous anti-virus attitude towards bad habits
+here. Suffice it to say that a rigorous anti-virus attitude towards bad habits
 is a requisite to rapid improvement.
