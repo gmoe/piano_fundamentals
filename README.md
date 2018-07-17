@@ -1,17 +1,20 @@
 # Fundamentals of Piano Practice
 
-This is [Sphinx](http://sphinx-doc.org/) adaptation of Chuan C. Chang’s
-excellent book, [Fundamentals of Piano Practice](http://pianopractice.org/).
+**ATTENTION:** This adaptation is no longer accepting pull
+requests. The author now has a [3rd edition][3rd] of this book that
+addressed a lot of the issues of the 2nd edition PDF, plus has more content.
+The current release will be kept online as-is. Thank you everyone who
+has submitted fixes!
+
+This is [Sphinx](Sphinx) adaptation of the 2nd edition of
+Chuan C. Chang’s excellent book, [Fundamentals of Piano Practice][3rd].
 Why bother? Well there are a quite few formatting improvements from the
 original PDF, including inter-document links, clean bulleted lists, and
-improved font/line spacing. By virtue of being a Sphinx project, this book is
-also available in HTML, PDF, ePub, and LaTeX. As a GitHub project, anyone can
-contribute to this project by adding in content from the book and fixing any
-discrepancies in formatting.
+improved font/line spacing. As a Sphinx project, this book is
+also available in HTML, PDF, ePub, and LaTeX.
 
-You can read the book online through [ReadTheDocs](http://readthedocs.org/),
-where you can also download the PDF and ePub versions. If you notice any
-issues with the text, please send a merge request!
+[3rd]: http://pianopractice.org/
+[Sphinx]: http://sphinx-doc.org/
 
 ## Easy Links
 
