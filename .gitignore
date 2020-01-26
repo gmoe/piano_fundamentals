@@ -1,2 +1,7 @@
 .DS_Store
+*.swp
+*.swo
+*bak
+
+env/
 build/
