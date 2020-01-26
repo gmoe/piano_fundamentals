@@ -1,5 +1,9 @@
 # Fundamentals of Piano Practice
 
+<a href='https://fundamentals-of-piano-practice.readthedocs.io/?badge=latest'>
+  <img src='https://readthedocs.org/projects/fundamentals-of-piano-practice/badge/?version=latest' alt='Build Status' />
+</a>
+
 This is a [Sphinx][Sphinx] adaptation of the 2nd edition of Chuan C. Chang’s
 excellent book, [Fundamentals of Piano Practice][3rd]. There are a quite few
 improvements over the original PDF, including:
