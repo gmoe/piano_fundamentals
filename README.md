@@ -42,3 +42,22 @@ unbelievable that such an essential skill has been mostly neglected by piano
 teachers. All great musicians used it, yet even they often failed to teach it.
 We learn why the traditional methods of teaching piano widely used today are
 the reasons why students give up piano.
+
+## Local Development
+
+Found a spelling mistake or want to port over more content? Want to build for a
+different format?  You'll need to install [Python 3][py3] and set up a [virtual
+environment][venv]. After installing the former this should be enough to get
+your started:
+
+
+```console
+$ pip install virtualenv
+$ virtualenv [--python=python3] env
+$ source env/bin/activate
+(env) $ pip install -r requirements.txt
+(env) $ make html # or pdflatex, epub, etc.
+```
+
+[py3]: https://docs.python-guide.org/starting/installation/
+[venv]: https://docs.python-guide.org/dev/virtualenvs/
