@@ -89,7 +89,7 @@ in frequency. Therefore, the frequency change for each semitone is given by:
 
    semitone^{12} = 2
 
-   semitone = 2^{1/12} ≈ 1.05946
+   semitone = 2^{1/12} \approx 1.05946
 
 Equation :eq:`2.1` defines the ET chromatic scale and allows the calculation of
 the frequency ratios of "intervals" in this scale. How do the "intervals" in ET
@@ -116,19 +116,19 @@ musically acceptable interval.
 Table 2.2b: Ideal vs. Equal Tempered Intervals
 """"""""""""""""""""""""""""""""""""""""""""""
 
-+----------------+----------------------+------------------------------+-----------------+
-| Interval       | Frequency Ratio      | Equal Tempered Scale         | Difference      |
-+================+======================+==============================+=================+
-| Minor Third    | :math:`6:5 = 1.2`    | :math:`semitone^3 ≈ 1.1892`  | :math:`+0.0108` |
-+----------------+----------------------+------------------------------+-----------------+
-| Major Third    | :math:`5:4 = 1.25`   | :math:`semitone^4 ≈ 1.2599`  | :math:`-0.0099` |
-+----------------+----------------------+------------------------------+-----------------+
-| Perfect Fourth | :math:`4:3 ≈ 1.3333` | :math:`semitone^5 ≈ 1.3348`  | :math:`-0.0015` |
-+----------------+----------------------+------------------------------+-----------------+
-| Perfect Fifth  | :math:`3:2 = 1.5`    | :math:`semitone^7 ≈ 1.4983`  | :math:`+0.0017` |
-+----------------+----------------------+------------------------------+-----------------+
-| Octave         | :math:`2:1 = 2`      | :math:`semitone^{12} = 2`    | :math:`0.0000`  |
-+----------------+----------------------+------------------------------+-----------------+
++----------------+----------------------------+-----------------------------------+-----------------+
+| Interval       | Frequency Ratio            | Equal Tempered Scale              | Difference      |
++================+============================+===================================+=================+
+| Minor Third    | :math:`6:5 = 1.2`          | :math:`semitone^3 \approx 1.1892` | :math:`+0.0108` |
++----------------+----------------------------+-----------------------------------+-----------------+
+| Major Third    | :math:`5:4 = 1.25`         | :math:`semitone^4 \approx 1.2599` | :math:`-0.0099` |
++----------------+----------------------------+-----------------------------------+-----------------+
+| Perfect Fourth | :math:`4:3 \approx 1.3333` | :math:`semitone^5 \approx 1.3348` | :math:`-0.0015` |
++----------------+----------------------------+-----------------------------------+-----------------+
+| Perfect Fifth  | :math:`3:2 = 1.5`          | :math:`semitone^7 \approx 1.4983` | :math:`+0.0017` |
++----------------+----------------------------+-----------------------------------+-----------------+
+| Octave         | :math:`2:1 = 2`            | :math:`semitone^{12} = 2`         | :math:`0.0000`  |
++----------------+----------------------------+-----------------------------------+-----------------+
 
 It is a mathematical accident that the 12-note ET chromatic scale produces so
 many ratios close to the ideal intervals. Only the number 7, out of the
