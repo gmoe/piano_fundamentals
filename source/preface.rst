@@ -8,10 +8,10 @@ Preface
 *This is the best book ever written on how to practice at the piano!* The
 revelation of this book is that there are highly efficient practice methods
 that can accelerate your learning rate, by up to 1,000 times if you have not
-yet learned the most efficient practice methods (see IV.5). What is surprising
-is that, although these methods were known since the earliest days of piano,
-they were seldom taught because only a few teachers knew about them and these
-knowledgeable teachers never bothered to disseminate this knowledge.
+yet learned the most efficient practice methods (see :ref:`IV.5`). What is
+surprising is that, although these methods were known since the earliest days
+of piano, they were seldom taught because only a few teachers knew about them
+and these knowledgeable teachers never bothered to disseminate this knowledge.
 
 I realized in the 1960s that there was no good book on how to practice at the
 piano. The best I could find was Whiteside's book, which was an utter
