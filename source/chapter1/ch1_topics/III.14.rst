@@ -446,7 +446,7 @@ slower and softer because that will almost guarantee a repeat of the blackout.
 In a concert hall with good acoustics, the sound of the piano will be absorbed
 by the hall and you will hear very little of the piano sound. It is obviously
 important to practice with the recital piano in the recital hall before the
-event. For a grand piano, if the music stand it up, you will hear even less
+event. For a grand piano, if the music stand is up, you will hear even less
 sound from the piano; always make sure that the music stand is down. If you
 need to read music, place it flat over the tuning pin area.
 
