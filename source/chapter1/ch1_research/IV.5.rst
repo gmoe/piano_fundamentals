@@ -64,66 +64,79 @@ approximation, on whether you are a fast learner or a slow learner; this
 changes only the proportionality constant. Thus we arrive at the first
 equation:
 
-L = kT (Eq. 1.1),
+.. math::
+    L = kT
+    :label: incrLearning
 
-where L is an increment of learning in the time interval T and k is the
+
+where :math:`L` is an increment of learning in the time interval :math:`T` and :math:`k` is the
 proportionality constant. What we are trying to find is the time dependence of
-L, or L(t) where t is time (in contrast to T which is an interval of time).
-Similarly, L is an increment of learning, but L(t) is a function.
+:math:`L`, or :math:`L(t)` where :math:`t` is time (in contrast to :math:`T` which is an interval of time).
+Similarly, :math:`L` is an increment of learning, but :math:`L(t)` is a function.
 
-Now comes the first interesting new concept. We have control over L; if we want
-2L, we simply practice twice. But that is not the L that we retain because we
-lose some L over time after we practice. Unfortunately, the more we know, the
+Now comes the first interesting new concept. We have control over :math:`L`; if we want
+:math:`2L`, we simply practice twice. But that is not the :math:`L` that we retain because we
+lose some :math:`L` over time after we practice. Unfortunately, the more we know, the
 more we can forget; that is, the amount we forget is proportional to the
-original amount of knowledge, L(O). Therefore, assuming that we acquired L(O),
-the amount of L we lose in T is:
+original amount of knowledge, :math:`L(O)`. Therefore, assuming that we acquired :math:`L(O)`,
+the amount of :math:`L` we lose in :math:`T` is:
 
-L = -kTL(O) (Eq. 1.2),
+.. math::
+    L = -kTL(O)
+    :label: lossT
 
-where the k’s in equations 1.1 and 1.2 are different, but we will not re-label
-them for simplicity. Note that k has a negative sign because we are losing L.
-Eq. 1.2 leads to the differential equation
+where the k’s in equations :eq:`incrLearning` and :eq:`lossT` are different, but we will not re-label
+them for simplicity. Note that :math:`k` has a negative sign because we are losing :math:`L`.
+Eq. :eq:`lossT` leads to the differential equation
 
-dL(t)/dt = -kL(t) (Eq. 1.3)
+.. math::
+    \frac{dL(t)}{dt} = -kL(t) 
+    :label: diffEq
 
-where “d” stands for differential (this is all standard calculus), and the
+where :math:`d` stands for differential (this is all standard calculus), and the
 solution to this differential equation is
 
-L(t) = Ke(exp.-kt) (Eq. 1.4),
+.. math::
+    L(t) = Ke^{-kt}
+    :label: solDiffEq
 
-where “e” is a number called the natural logarithm which satisfies Eq. 1.3, and
-K is a new constant related to k (for simplicity, we have ignored another term
-in the solution that is unimportant at this stage). Eq. 1.4 tells us that once
-we learn L, we will immediately start to forget it exponentially with time if
+where :math:`e` is a number called the natural logarithm which satisfies Eq. :eq:`diffEq`, and
+:math:`K` is a new constant related to :math:`k` (for simplicity, we have ignored another term
+in the solution that is unimportant at this stage). Eq. :eq:`solDiffEq` tells us that once
+we learn :math:`L`, we will immediately start to forget it exponentially with time if
 the forgetting process is linear with time.
 
-Since the exponent is a number, k in Eq. 1.4 has the units of 1/time. We shall
-set k = 1/T(k) where T(k) is called the characteristic time. Here, k refers to
-a specific learning/forgetting process. When we learn piano, we learn via a
-myriad of processes, most of which are not well understood. Therefore,
-determining accurate values for T(k) for each process is generally not
+Since the exponent is a number, :math:`k` in Eq. :eq:`solDiffEq` has the units of :math:`\frac{1}{\text{time}}`
+We shall set :math:`k = \frac{1}{T(k)}` where :math:`T(k)` is called the characteristic time.
+Here, :math:`k` refers to a specific learning/forgetting process.
+When we learn piano, we learn via a myriad of processes, most of which are not well understood.
+Therefore, determining accurate values for :math:`T(k)` for each process is generally not
 possible, so in the numerical calculations, we will have to make some
 “intelligent guesses”. In piano practice, we must repeat difficult material
 many times before we can play them well, and we need to assign a number (say,
-“i”) to each practice repetition. Then Eq. 1.4 becomes
+:math:`i`) to each practice repetition. Then Eq. :eq:`solDiffEq` becomes
 
-L(i,t,k) = K(i)e(expt.-t[i]/T[k]) (Eq. 1.5),
+.. math::
+    L(i,t,k) = K(i)e^{-\frac{t[i]}{T[k]}}
+    :label: repetitionConsidered
 
-for each repetition i and learning/forgetting process k. Let’s apply this to a
-relevant example. Suppose that you are practicing 4 parallel set (PS) notes in
+for each repetition :math:`i` and learning/forgetting process :math:`k`. 
+Let’s apply this to a relevant example. Suppose that you are practicing 4 parallel set (PS) notes in
 succession, playing rapidly and switching hands, etc., for 10 minutes. We
 assign i = 0 to one PS execution, which may take only about half a second. You
 might repeat this 10 or 100 times during the practice session. You have learned
-L(0) after the first PS. But what we need to calculate is the amount of L(0)
+:math:`L(0)` after the first PS. But what we need to calculate is the amount of :math:`L(0)`
 that we retain after the 10 minute practice session. In fact, because we repeat
 many times, we must calculate the cumulative learning from all of them.
-According to Eq. 1.5, this cumulative effect is given by summing the L’s over
+According to Eq. :eq:`repetitionConsidered`, this cumulative effect is given by summing the :math:`L`'s over
 all the PS repetitions:
 
-L(Total) = Sum(over i)K(i)e(expt.-t[i]/T[k]) (Eq.1.6).
+.. math::
+    L(Total) = \sum^{i}K(i)e^{-\frac{t[i]}{T[k]}}
+    :label: sumRepetitions
 
-Now let’s put in some numbers into Eq. 1.6 in order to get some answers. Take a
-passage that you can play slowly, HT, in about 100 seconds (intuitive method).
+Now let’s put in some numbers into Eq. :eq:`sumRepetitions` in order to get some answers.
+Take a passage that you can play slowly, HT, in about 100 seconds (intuitive method).
 This passage may contain 2 or 3 PSs that are difficult and that you can play
 rapidly in less than a second, so that you can repeat them over 100 times in
 those 100 seconds (method of this book). Typically, these 2 or 3 difficult
@@ -138,17 +151,16 @@ after a long time because the forgetting process is exponential -- exponential
 decays never reach zero. Also, you can make many repetitions in a short time
 for PSs, so these learning events can pile up quickly. This forgetting time
 constant of 30 seconds depends on the mechanism of learning/forgetting, and I
-have chosen a relatively short one for rapid repetitions; we shall examine a
-much longer one below.
-
+have chosen a relatively short one for rapid repetitions; we shall examine a much longer one below.  
 Assuming one PS repetition per second, the learning from the first repetition
-is e(expt.- 100/30) = 0.04 (you have 100 seconds to forget the first
-repetition), while the last repetition gives e(expt.-1/30) = 0.97, and the
+is :math:`e^{-\frac{100}{30}} = 0.04` (you have 100 seconds to forget the first
+repetition), while the last repetition gives :math:`e^{-\frac{1}{30}}=0.97`, and the
 average learning is somewhere in between, about 0.4 (we don’t have to be exact,
 as we shall see), and with over 100 repetitions, we have over 40 units of
 learning for the use of PSs. For the intuitive method, we have a single
-repetition or e(expt. -100/30) = 0.04. The difference is a factor of 40/0.04 =
-1,000! With such a large difference factor, we do not need much accuracy to
+repetition or :math:`e^{-\frac{100}{30}} = 0.04`.
+The difference is a factor of :math:`\frac{40}{0.04}=1000`!
+With such a large difference factor, we do not need much accuracy to
 demonstrate that there is a big difference.
 
 The 30 second time constant used above was for a “fast” learning process, such
