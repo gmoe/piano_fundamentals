@@ -59,8 +59,8 @@ your started:
 $ pip install virtualenv
 $ virtualenv [--python=python3] env
 $ source env/bin/activate
-(env) $ pip install -r requirements.txt
-(env) $ make html # or pdflatex, epub, etc.
+$ pip install -r requirements.txt
+$ make html # or pdflatex, epub, etc.
 ```
 
 [py3]: https://docs.python-guide.org/starting/installation/
