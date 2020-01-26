@@ -318,7 +318,7 @@ In addition, WT presented the possibility of not only good 3rds, but also good
 5ths. The simplest WT (to tune) was devised by Kirnberger, a student of Bach.
 But it has a terrible wolf. “Better” WTs (all temperaments are compromises and
 they all have advantages and disadvantages) were devised by Werckmeister and by
-Young (which is almost the same as Valotti). If we broadly classify tunings as
+Young (which is almost the same as Vallotti). If we broadly classify tunings as
 Meantone, WT, or Pythagorean, then ET is a WT because ET is neither sharp nor
 flat.
 
@@ -370,7 +370,7 @@ Kirnberger, Werckmeister, and Young. They all produced key color but still left
 open the question of what Bach used. In 2004, Bradley Lehman proposed that the
 strange spirals at the top of the cover page of Bach’s *Well Tempered Clavier*
 manuscript represented a tuning diagram (see Larips.com), and used the diagram
-to produce a WT that is fairly close to Valloti. Bach’s tunings were mainly for
+to produce a WT that is fairly close to Vallotti. Bach’s tunings were mainly for
 harpsichord and organ, since pianos as we know them today didn’t exist at that
 time. One requirement of harpsichord tuning is that it be simple enough so that
 it can be done in about 10 minutes on a familiar instrument, and Lehman’s Bach
