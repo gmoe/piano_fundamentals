@@ -4,19 +4,12 @@
   <img src='https://readthedocs.org/projects/fundamentals-of-piano-practice/badge/?version=latest' alt='Build Status' />
 </a>
 
-This is a [Sphinx][Sphinx] adaptation of the 2nd edition of Chuan C. Chang’s
-excellent book, [Fundamentals of Piano Practice][3rd]. There are a quite few
-improvements over the original PDF, including:
-
-* Inter-document links
-* Improved document formatting
-* Mobile-friendly HTML version
-* ePub for e-readers
+This is a [Sphinx][Sphinx] adaptation of the 3nd edition of Chuan C. Chang’s
+excellent book, [Fundamentals of Piano Practice][3rd], providing a mobile-friendly HTML version.
 
 I am not the author of this book, please consider supporting Chaun C. Chang by
 buying the [paperback][paperback] or [Kindle version][kindle] of the 3rd
-edition, or the [2nd edition paperback][paperback2] that this adaptation is
-based on. The [3rd edition][3rd] addressed a lot of the issues of the original
+edition, or the [2nd edition paperback][paperback2]. The [3rd edition][3rd] addressed a lot of the issues of the original
 2nd edition PDF such as inter-document links and it has more content.
 
 [3rd]: http://pianopractice.org/
@@ -29,23 +22,10 @@ based on. The [3rd edition][3rd] addressed a lot of the issues of the original
 
 * [Online Book](http://fundamentals-of-piano-practice.readthedocs.org/en/latest/index.html)
 * [PDF Download](https://media.readthedocs.org/pdf/fundamentals-of-piano-practice/latest/fundamentals-of-piano-practice.pdf)
-* [ePub Download](https://media.readthedocs.org/epub/fundamentals-of-piano-practice/latest/fundamentals-of-piano-practice.epub)
 
 ## Original Author Foreword
 
-This is the best book ever written on how to practice at the piano! Most books
-list what skills are needed (scales, arpeggios, trills, etc.), but not how to
-acquire them. This book teaches how to solve technical problems, step by step.
-Learn practice methods, how to acquire technique and memorize hours of
-repertoire, sight reading, musical playing, relaxation, etc., and, most
-importantly, Mental Play in which you learn to play the piano in your mind.
-Mental play touches every aspect of piano playing, from memorizing, controlling
-nervousness, developing performance skills, playing musically, etc., to
-acquiring absolute pitch, composing and improvisation. It is almost
-unbelievable that such an essential skill has been mostly neglected by piano
-teachers. All great musicians used it, yet even they often failed to teach it.
-We learn why the traditional methods of teaching piano widely used today are
-the reasons why students give up piano.
+This is the first book that teaches piano practice methods systematically, based on my lifetime of research, and containing the teachings of Combe, material from over 50 piano books, hundreds of articles, and decades of internet research and discussions with teachers and pianists. Genius skills are identified and shown to be teachable; learning piano can raise or lower your IQ. Past widely taught methods based on false assumptions are exposed; substituting them with efficient practice methods allows students to learn piano and obtain the necessary education to navigate in today's world and even have a second career.
 
 ## Local Development
 

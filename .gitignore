@@ -5,3 +5,6 @@
 
 env/
 build/
+.vscode
+source/_build
+venv

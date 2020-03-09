@@ -6,34 +6,11 @@
 Fundamentals of Piano Practice
 ==============================
 
-This is the best book ever written on how to practice at the piano! Most books
-list what skills are needed (scales, arpeggios, trills, etc.), but not how to
-acquire them. This book teaches how to solve technical problems, step by step.
-Learn practice methods, how to acquire technique and memorize hours of
-repertoire, sight reading, musical playing, relaxation, etc., and, most
-importantly, Mental Play in which you learn to play the piano in your mind.
-Mental play touches every aspect of piano playing, from memorizing, controlling
-nervousness, developing performance skills, playing musically, etc., to
-acquiring absolute pitch, composing and improvisation. It is almost
-unbelievable that such an essential skill has been mostly neglected by piano
-teachers. All great musicians used it, yet even they often failed to teach it.
-We learn why the traditional methods of teaching piano widely used today are
-the reasons why students give up piano.
+All the efficient piano practice methods I could find have been assembled in this one book, starting with the teachings of Mlle. Yvonne Combe. Included are the material from over fifty of the most popular books on learning piano, and hundreds of articles and internet sites, that are relevant to practice methods.
 
-Genius is more created than born; this is illustrated by analyzing how the
-greatest pianists learned and composed. Most (perhaps all?) of what were
-previously attributed to talent are shown to be simple knowledge-based
-solutions (to difficult problems) that we can all learn. Improved memory can
-raise the effective IQ; memory is an associative process based on algorithms --
-music is just such an algorithm and that is why we can easily memorize an
-entire Beethoven sonata. Learning piano makes you smarter and helps you succeed
-because it teaches project management.
+Combe's grandmother was a famous soprano in France and Combe's mother was a voice teacher and they gave Yvonne a good start in piano. Yvonne won the first prize for piano at the Paris Conservatory in 1910 and graduated at age 13. Franz Liszt had attracted high level pianists to Paris and the "French School of Piano/Music" developed some of the most advanced teaching methods. Combe's mentors were Long, Cortot, Debussy, and Saint Saëns. She helped Debussy transcribe his new compositions for publication as he played them out on the piano. Debussy even added some of Combe's suggestions into his compositions. She was one of the most promising pianists of her time, concertizing and performing under famous conductors such as Saint Saëns, until she injured her hand in a bicycle accident (she was quite an athlete, a good skier), ending her performing career at age 15. She subsequently dedicated her entire life to teaching, organizing schools with up to 30 teachers in England, Switzerland, and Plainfield, NJ, USA, where she briefly coached Van Cliburn because her teaching methods were similar to his mother's.
 
-This book has a chapter explaining the chromatic scale and temperaments, with
-detailed instructions on how to tune your own piano. The Equal Temperament, so
-universally used today, muddies the music and dulls our sensitivities; we
-should return to the more musical Well temperaments that the greatest musicians
-of all time researched so meticulously.
+Piano pedagogy had incorrectly attributed success in piano to "talent" for over a hundred years, thus relieving teachers of the responsibility for the failure of their students. This mistake stagnated teaching until about year 2000, when information became readily available over the internet. Today, talent is being replaced by knowledge, empowering students to quickly learn piano skills that were previously considered the exclusive "talents" of "geniuses" that, we now know, can be easily taught. Piano pedagogy can finally catch up to established fields of study that have proper textbooks that provide teachers with all necessary material that should be taught, enabling every student to learn at rates that were impossible during the age of exercises (Hanon) and "lesson pieces" (Czerny) devoid of music. Piano lessons are all about learning the "genius skills", project management, empowerment through education and, above all, making music.
 
 .. warning::
    This is a work in progress, some sections have not been copied over, there
@@ -51,6 +28,7 @@ Table of Contents
    preface
    chapter1/index
    chapter2/index
+   chapter3/index
    terms
    references
 

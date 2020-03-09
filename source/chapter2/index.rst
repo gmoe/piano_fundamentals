@@ -3,7 +3,7 @@
 .. _CH2:
 
 ==============================
-Chapter Two: Tuning Your Piano
+Chapter Two: TODO
 ==============================
 
 .. toctree:: 
@@ -16,3 +16,6 @@ Chapter Two: Tuning Your Piano
    CH2.5
    CH2.6
    CH2.7
+
+   CH2.59
+   CH2.60

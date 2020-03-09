@@ -24,15 +24,13 @@ The Project
 .. _Griffin Moe: http://griffinmoe.com/
 
 This is Sphinx adaptation of Chaun C. Chang's excellent book, `Fundamentals of
-Piano Practice`_. Why bother? Well there are a quite few formatting
-improvements from the original PDF, including inter-document links, clean
-bulleted lists, and improved font/line spacing. By virtue of being a Sphinx
-project, this book is also available in HTML, PDF, ePub, and LaTeX. As a GitHub
+Piano Practice`_. Why bother? Well this makes the book more accessible and readbale on different devices, allowing in particular to take advantage of any feature offered by the browser. By virtue of being a Sphinx
+project, this book is also available in HTML, PDF, and LaTeX. As a GitHub
 project, anyone can contribute to this project by adding in content from the
 book and fixing any discrepancies in formatting. 
 
-Copyright Notice
-----------------
+Copyright Notice TODO UPDATE?????
+----------------------------------
 
 .. _BookSurge: http://www.booksurge.com/
 .. _Amazon: http://www.amazon.com/
