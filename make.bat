@@ -26,7 +26,6 @@ if "%1" == "help" (
 	echo.  htmlhelp   to make HTML files and a HTML help project
 	echo.  qthelp     to make HTML files and a qthelp project
 	echo.  devhelp    to make HTML files and a Devhelp project
-	echo.  epub       to make an epub
 	echo.  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter
 	echo.  text       to make text files
 	echo.  man        to make manual pages
@@ -126,14 +125,6 @@ if "%1" == "devhelp" (
 	if errorlevel 1 exit /b 1
 	echo.
 	echo.Build finished.
-	goto end
-)
-
-if "%1" == "epub" (
-	%SPHINXBUILD% -b epub %ALLSPHINXOPTS% %BUILDDIR%/epub
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished. The epub file is in %BUILDDIR%/epub.
 	goto end
 )
 

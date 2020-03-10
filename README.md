@@ -5,7 +5,7 @@
 </a>
 
 This is a [Sphinx][Sphinx] adaptation of the 3nd edition of Chuan C. Chang’s
-excellent book, [Fundamentals of Piano Practice][3rd], providing a mobile-friendly HTML version.
+excellent book, [Fundamentals of Piano Practice][3rd], providing some formatting improements and a mobile-friendly HTML version.
 
 I am not the author of this book, please consider supporting Chaun C. Chang by
 buying the [paperback][paperback] or [Kindle version][kindle] of the 3rd
