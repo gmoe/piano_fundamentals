@@ -29,17 +29,13 @@ project, this book is also available in HTML, PDF, and LaTeX. As a GitHub
 project, anyone can contribute to this project by adding in content from the
 book and fixing any discrepancies in formatting. 
 
-Copyright Notice TODO UPDATE?????
+Copyright Notice
 ----------------------------------
 
 .. _BookSurge: http://www.booksurge.com/
 .. _Amazon: http://www.amazon.com/
 .. _here: http://www.pianopractice.org/
 
-Copyright © 2009. Copy permitted if author’s name, Chuan C.  Chang, and this
-copyright statement are included.  Order this book at `BookSurge`_ or
-`Amazon`_. This entire book can be downloaded free `here`_.
+Copyright © 2016, copy permitted if authorship, Chuan C. Chang, is included.
+This entire book can be downloaded for free `here`_.
 
-:ISBN: 1-4196-7859-0
-:ISBN-13: 978-419678592
-:LCCN: 2007907498 

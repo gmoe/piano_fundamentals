@@ -2,4 +2,11 @@
 
 12. Speed Wall
 --------------
-TODO 
+
+All pianists have experienced **"speed walls" (SWs)**. What are they, how do they form, how many are there, and how do you eliminate them? Any piano piece can be played if slowed down sufficiently. The first order of business when learning a new piece is to bring it up to speed. That is when you can encounter SWs, conditions in which you can't go above a certain speed, no matter how hard you practice. SWs form when you practice incorrectly and create bad habits or build up stress. Therefore, it is the pianist who erects SWs. There are as many SWs as bad habits, basically an indefinite number.
+
+**HS practice** is an effective weapon against SWs because most SWs are HT SWs. The next weapon is **segmental practice** because the shorter a segment, the faster you can play it without problems. **Parallel sets are the most useful weapons** against SWs because you can start at speeds above the speed wall. **Relaxation** is essential at all times, but especially for avoiding SWs because stress is a major cause. **Outlining** is another effective weapon because it allows the large motions to be correctly played at final speed, thus avoiding the SWs in these motions [:ref:`CH1.38`]. **Quiet hands** is also helpful because you generally can not play quiet hands unless you have the technique [:ref:`Quiet Hands & Fingers<CH1.24>`]. Any method for increasing the efficiency of motion helps; thus mixing flat finger and curled positions, keeping the fingers on the keys, and the various hand motions such as glissando, cartwheel, arm rotation, wrist motion, etc., that are discussed below, are all needed to prevent SWs. Musical play is not possible at SWs because you lack control; thus in principle, if you always practice musically, you will never encounter a SW.
+
+A few SWs built up over years may be difficult to eliminate in a short time. Early detection of SWs is the key to removing them quickly. The solution of last resort for a really stubborn SW is not to play it, or only playing it slowly, for weeks or months and learning something new during that time. Learning new things is a good way to erase old habits.
+
+**SWs form when you try the impossible.** Many teaching methods have evolved to avoid this problem by slowing down the learning process. This defeats the original intent of learning as quickly as possible. The best solution is to use the learning tricks of this book that achieve the objectives without doing anything impossible.

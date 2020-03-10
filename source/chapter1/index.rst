@@ -7,7 +7,8 @@ Chapter One: Basic Practice Methods
 ===================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :titlesonly:
 
    CH1.1
    CH1.2
@@ -15,13 +16,14 @@ Chapter One: Basic Practice Methods
    CH1.4
    CH1.5
    CH1.6
+   CH1.7
    CH1.8
+   CH1.9
+   CH1.10
+   CH1.11
    CH1.12
-   CH1.14
-   CH1.21
-   CH1.29
-   CH1.31
-   CH1.37
-   CH1.42
+   CH1.13
+
+   ch1_examples/index
 
 

@@ -1,5 +1,16 @@
 .. _CH1.8:
 
 8. Relaxation, Gravity
------------------------
-todo
+----------------------
+
+The human brain can be quite wasteful. In conducting any activity, the untrained brain activates many more muscles than is necessary, often activating opposing muscles that fight each other, or neglecting to relax the muscles after their work is done. This waste gets worse in difficult or complex situations. For simple activities, such waste does not matter. In piano, it can make the difference between success and failure because we are using the brain and hands at tasks beyond their evolutionary capabilities. 
+
+**Relaxation** in piano is not relaxing all muscles, but relaxing all unnecessary muscles so that the necessary ones can do their job; the necessary ones are frequently asked to work extremely hard. We also need to quickly relax the working muscles as soon as their work is done in order to reduce fatigue and to prevent interference with subsequent movements. This is called **rapid relaxation**; the relaxation speeds must match the keystroke speeds for the system to work. This requires conscious practice, because it is not normally required.
+
+All pianists have experienced the phenomenon in which there is no progress for extended periods of practicing difficult material until suddenly, you can play it. What happened? There are various causes such as discovery of [:ref:`CH1.36`], but the most common cause is relaxation which produces a positive feedback loop: you have become good enough to relax; the more you relax, the better you can play, and the better you can play, the more you can relax, etc. Incorporating relaxation from the beginning immediately starts this positive feedback, greatly accelerating technique acquisition.
+
+The realization that relaxation is important has spawned various schools of teaching, such as the arm weight method. Getting bogged down in such methods is not a good idea because they mostly emphasize what you shouldn't do over what you should do because the material is not sufficiently understood. Instead, understanding the basic principles is better. The arm weight is important in piano because humans evolved with muscle strengths that match gravity exactly. Accordingly, the piano was designed with all required forces as close to gravity as possible. Students not taught relaxation can press down on the piano constantly or tense their muscles most of the time, especially when practicing difficult material. Gravity provides a constant reference force of exactly the correct magnitude against which to measure the level of relaxation. This answers the question "how do I know if I am relaxed?" You are relaxed when you can feel gravity pulling on your body and hands.
+
+This has led to the concept of the **gravity drop**. Raise your hand four to ten inches above the keyboard and drop it on one key with one finger, letting gravity pull the hand down, as if the hand is going to fall right through the keyboard. At the bottom of the keydrop, stiffen the finger so that the keyboard stops the hand and the finger is supporting the hand; then immediately relax the hand. If sufficiently relaxed, you will feel gravity pulling the hand down. If done correctly, you were relaxed during the fall and the finger accelerates through the keydrop, which is the process of "playing deeply into the keys" to produce a deep tone [:ref:`CH1.42`].
+
+The gravity drop is not the way to play the piano, but is useful for illustrating relaxation, and everybody should practice it. A rising elbow is often an indication of stress; when this happens, relax by allowing gravity to pull the elbows (and shoulders) down.
