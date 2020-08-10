@@ -27,9 +27,9 @@ based on. The [3rd edition][3rd] addressed a lot of the issues of the original
 
 ## Downloads
 
-* [Online Book](http://fundamentals-of-piano-practice.readthedocs.org/en/latest/index.html)
-* [PDF Download](https://media.readthedocs.org/pdf/fundamentals-of-piano-practice/latest/fundamentals-of-piano-practice.pdf)
-* [ePub Download](https://media.readthedocs.org/epub/fundamentals-of-piano-practice/latest/fundamentals-of-piano-practice.epub)
+* [Online Book](https://fundamentals-of-piano-practice.readthedocs.io/)
+* [PDF Download](https://fundamentals-of-piano-practice.readthedocs.io/_/downloads/en/latest/pdf/)
+* [ePub Download](https://fundamentals-of-piano-practice.readthedocs.io/_/downloads/en/latest/epub/)
 
 ## Original Author Foreword
 
