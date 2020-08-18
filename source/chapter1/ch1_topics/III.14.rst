@@ -119,7 +119,7 @@ speed. Remember that the audience has not heard this piece innumerable times
 like you have during practice, and your “final speed” can be too fast for them.
 A piece played with careful attention to every note can sound faster than one
 played at a faster speed, but with indistinct notes. You need to “spoon feed”
-every note to the audience or they will not here it.
+every note to the audience or they will not hear it.
 
 Practice recovering from mistakes. Attend student recitals and watch how they
 react to their mistakes; you will easily spot the right reactions and the
