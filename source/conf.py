@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Fundamentals of Piano Practice'
-copyright = u'2014, Chaun C. Chang'
+copyright = u'2014, Chuan C. Chang'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -203,7 +203,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'FundamentalsofPianoPractice.tex', u'Fundamentals of Piano Practice',
-   u'Chaun C. Chang', 'book'),
+   u'Chuan C. Chang', 'book'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -233,7 +233,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'fundamentalsofpianopractice', u'Fundamentals of Piano Practice',
-     [u'Chaun C. Chang'], 1)
+     [u'Chuan C. Chang'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -247,7 +247,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'FundamentalsofPianoPractice', u'Fundamentals of Piano Practice Documentation',
-   u'Chaun C. Chang', 'FundamentalsofPianoPractice', 'One line description of project.',
+   u'Chuan C. Chang', 'FundamentalsofPianoPractice', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -268,9 +268,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Fundamentals of Piano Practice'
-epub_author = u'Chaun C. Chang'
-epub_publisher = u'Chaun C. Chang'
-epub_copyright = u'2014, Chaun C. Chang'
+epub_author = u'Chuan C. Chang'
+epub_publisher = u'Chuan C. Chang'
+epub_copyright = u'2014, Chuan C. Chang'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Fundamentals of Piano Practice'
