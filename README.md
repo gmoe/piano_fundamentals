@@ -13,7 +13,7 @@ improvements over the original PDF, including:
 * Mobile-friendly HTML version
 * ePub for e-readers
 
-I am not the author of this book, please consider supporting Chaun C. Chang by
+I am not the author of this book, please consider supporting Chuan C. Chang by
 buying the [paperback][paperback] or [Kindle version][kindle] of the 3rd
 edition, or the [2nd edition paperback][paperback2] that this adaptation is
 based on. The [3rd edition][3rd] addressed a lot of the issues of the original

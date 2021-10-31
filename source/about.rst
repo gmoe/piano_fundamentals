@@ -23,7 +23,7 @@ The Project
 .. _Fundamentals of Piano Practice: http://pianopractice.org/
 .. _Griffin Moe: http://griffinmoe.com/
 
-This is Sphinx adaptation of Chaun C. Chang's excellent book, `Fundamentals of
+This is Sphinx adaptation of Chuan C. Chang's excellent book, `Fundamentals of
 Piano Practice`_. Why bother? Well there are a quite few formatting
 improvements from the original PDF, including inter-document links, clean
 bulleted lists, and improved font/line spacing. By virtue of being a Sphinx
